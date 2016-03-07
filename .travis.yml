@@ -1,3 +1,4 @@
 nguage: python
 python:
   - "3.4"
+script: howdy_test
